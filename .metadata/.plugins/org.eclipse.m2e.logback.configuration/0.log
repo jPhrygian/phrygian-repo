@@ -1,0 +1,32 @@
+2014-11-02 12:54:44,645 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.phrygian:phrygian-core:0.0.1-SNAPSHOT @ /home/cjeronimo/git/devlopment/phrygian-core/pom.xml.
+2014-11-02 12:54:45,072 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.phrygian:phrygian-core:0.0.1-SNAPSHOT @ /home/cjeronimo/git/devlopment/phrygian-core/pom.xml.
+2014-11-02 12:54:46,690 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:54:46,695 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-02 12:54:46,713 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:54:46,713 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cjeronimo/git/devlopment/phrygian-core/src/test/resources
+2014-11-02 12:54:48,545 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.phrygian:phrygian-core:0.0.1-SNAPSHOT @ /home/cjeronimo/git/devlopment/phrygian-core/pom.xml.
+2014-11-02 12:54:52,958 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:54:52,989 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-02 12:54:52,991 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:54:52,991 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cjeronimo/git/devlopment/phrygian-core/src/test/resources
+2014-11-02 12:55:06,153 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-11-02 12:55:06,226 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.phrygian:phrygian-core:0.0.1-SNAPSHOT @ /home/cjeronimo/git/devlopment/phrygian-core/pom.xml.
+2014-11-02 12:55:06,530 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /phrygian-core/src/main/java
+2014-11-02 12:55:06,530 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /phrygian-core/src/main/resources
+2014-11-02 12:55:06,531 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /phrygian-core/src/test/java
+2014-11-02 12:55:06,803 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.phrygian:phrygian-core:0.0.1-SNAPSHOT @ /home/cjeronimo/git/devlopment/phrygian-core/pom.xml.
+2014-11-02 12:55:07,028 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for phrygian-core
+2014-11-02 12:55:07,030 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-11-02 12:55:07,421 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:55:07,421 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-02 12:55:07,423 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:55:07,423 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cjeronimo/git/devlopment/phrygian-core/src/test/resources
+2014-11-02 12:57:34,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:57:34,321 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-02 12:57:34,322 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:57:34,323 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cjeronimo/git/devlopment/phrygian-core/src/test/resources
+2014-11-02 12:57:46,224 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.phrygian:phrygian-core:0.0.1-SNAPSHOT @ /home/cjeronimo/git/devlopment/phrygian-core/pom.xml.
+2014-11-02 12:57:46,546 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:57:46,547 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-02 12:57:46,550 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-02 12:57:46,550 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cjeronimo/git/devlopment/phrygian-core/src/test/resources

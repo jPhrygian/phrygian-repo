@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/cjeronimo/git/devlopment/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2623793012.index
+3048684009.index
+3924973979.index
+2763554965.index
+1215151962.index
+2705927647.index

@@ -1,0 +1,9 @@
+INDEX VERSION 1.127
+/home/cjeronimo/git/devlopment/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2119146954.index
+/phrygian-core/src/main/java
+/home/cjeronimo/git/devlopment/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1082273652.index
+/phrygian-core/src/main/java
+/home/cjeronimo/git/devlopment/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1182003368.index
+/phrygian-core/src/main/java
+/home/cjeronimo/git/devlopment/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/936011767.index
+/phrygian-core/src/main/java

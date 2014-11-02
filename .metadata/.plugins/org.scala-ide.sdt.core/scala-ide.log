@@ -1,0 +1,31 @@
+2014-11-02 12:53:51,795 ERROR [Worker-6] - System.err - java.lang.reflect.InvocationTargetException
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at java.lang.reflect.Method.invoke(Method.java:483)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.invokeMethod(RooCoreActivator.java:100)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.registerHttpPgpUrlHandler(RooCoreActivator.java:127)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.access$0(RooCoreActivator.java:107)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator$1.run(RooCoreActivator.java:78)
+2014-11-02 12:53:51,796 ERROR [Worker-6] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - Caused by: java.lang.NullPointerException
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.equinox.weaving.adaptors.WeavingAdaptorFactory.getHost(WeavingAdaptorFactory.java:102)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingHook.getHostBundleAdaptor(WeavingHook.java:78)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.equinox.weaving.hooks.BundleAdaptorProvider.getAdaptor(BundleAdaptorProvider.java:32)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.equinox.weaving.hooks.AbstractWeavingBundleFile.getAdaptor(AbstractWeavingBundleFile.java:58)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingBundleFile.getEntry(WeavingBundleFile.java:61)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.osgi.baseadaptor.bundlefile.BundleFileWrapperChain.getEntry(BundleFileWrapperChain.java:43)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry0(BaseData.java:114)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry(BaseData.java:105)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.getNextElement(BaseAdaptor.java:559)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:546)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:1)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.springframework.roo.support.osgi.OSGiUtils$2.execute(OSGiUtils.java:101)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.execute(OSGiUtils.java:138)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.findEntriesByPattern(OSGiUtils.java:95)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - at org.springframework.roo.felix.pgp.PgpServiceImpl.trustDefaultKeys(PgpServiceImpl.java:98)
+2014-11-02 12:53:51,797 ERROR [Worker-6] - System.err - ... 9 more
+2014-11-02 12:53:52,035 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.springsource.ide.eclipse.commons.core.templates.TemplateProcessor).
+2014-11-02 12:53:52,036 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-11-02 12:54:50,959 ERROR [Worker-6] - System.err - [Fatal Error] web.xml:2:193: Attribute "xmlns" was already specified for element "web-app".
+2014-11-02 12:54:50,961 ERROR [Worker-6] - System.err - [Fatal Error] web.xml:2:193: Attribute "xmlns" was already specified for element "web-app".
